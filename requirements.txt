@@ -5,3 +5,4 @@ streamlit
 openai
 scikit-learn
 langchain-openai
+dotenv
