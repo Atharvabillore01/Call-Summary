@@ -4,5 +4,3 @@ openai-whisper
 streamlit
 openai
 scikit-learn
-langchain-openai
-
